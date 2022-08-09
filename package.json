@@ -1,0 +1,19 @@
+{
+  "name": "alpine-sortable",
+  "version": "1.0.0",
+  "description": "A first rate way to sort things with AlpineJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckgreenman/alpine-sortable.git"
+  },
+  "author": "Chuck Greenman <chuck@chuckgreenman.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckgreenman/alpine-sortable/issues"
+  },
+  "homepage": "https://github.com/chuckgreenman/alpine-sortable#readme"
+}
